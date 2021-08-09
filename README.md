@@ -13,16 +13,27 @@ npm install --save react-github-ribbon-alt
 ## Usage
 
 ```jsx
-import React, { Component } from 'react'
+import { GithubRibbon } from "react-github-ribbon-alt";
+import React from "react";
 
-import MyComponent from 'react-github-ribbon-alt'
-import 'react-github-ribbon-alt/dist/index.css'
-
-class Example extends Component {
-  render() {
-    return <MyComponent />
-  }
+function App() {
+  return (
+    <GithubRibbon
+      primary="white"
+      secondary="hotpink"
+      orientation="top-left"
+      width="200"
+      height="200"
+      style={{
+        position: "fixed",
+        top: 0,
+        left: 0,
+      }}
+    />
+  );
 }
+
+export default App;
 ```
 
 ## License
