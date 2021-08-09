@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/react-github-ribbon-alt/static/css/main.fec2498e.chunk.css",
-    "main.js": "/react-github-ribbon-alt/static/js/main.1f7e48c0.chunk.js",
-    "main.js.map": "/react-github-ribbon-alt/static/js/main.1f7e48c0.chunk.js.map",
+    "main.js": "/react-github-ribbon-alt/static/js/main.d7dd497d.chunk.js",
+    "main.js.map": "/react-github-ribbon-alt/static/js/main.d7dd497d.chunk.js.map",
     "runtime-main.js": "/react-github-ribbon-alt/static/js/runtime-main.7bb671db.js",
     "runtime-main.js.map": "/react-github-ribbon-alt/static/js/runtime-main.7bb671db.js.map",
     "static/js/2.c0797f69.chunk.js": "/react-github-ribbon-alt/static/js/2.c0797f69.chunk.js",
     "static/js/2.c0797f69.chunk.js.map": "/react-github-ribbon-alt/static/js/2.c0797f69.chunk.js.map",
     "index.html": "/react-github-ribbon-alt/index.html",
-    "precache-manifest.efa679914326aa15cce80766e0d2d889.js": "/react-github-ribbon-alt/precache-manifest.efa679914326aa15cce80766e0d2d889.js",
+    "precache-manifest.02402922be944ed5de64721fa749d6fa.js": "/react-github-ribbon-alt/precache-manifest.02402922be944ed5de64721fa749d6fa.js",
     "service-worker.js": "/react-github-ribbon-alt/service-worker.js",
     "static/css/main.fec2498e.chunk.css.map": "/react-github-ribbon-alt/static/css/main.fec2498e.chunk.css.map",
     "static/js/2.c0797f69.chunk.js.LICENSE.txt": "/react-github-ribbon-alt/static/js/2.c0797f69.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.7bb671db.js",
     "static/js/2.c0797f69.chunk.js",
     "static/css/main.fec2498e.chunk.css",
-    "static/js/main.1f7e48c0.chunk.js"
+    "static/js/main.d7dd497d.chunk.js"
   ]
 }
