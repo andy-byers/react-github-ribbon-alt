@@ -3,7 +3,7 @@ import React from "react";
 import "./index.css";
 
 const commonProps = Object.freeze({
-  href: "https://andy-byers.github.io/react-github-ribbon-alt/",
+  href: "https://github.com/andy-byers/react-github-ribbon-alt",
   width: 200,
   height: 200,
 });
