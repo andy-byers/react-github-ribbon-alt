@@ -44,7 +44,6 @@ const App = () => {
         <h1>react-github-ribbon-alt</h1>
         <p>An alternate GitHub ribbon style for React</p>
       </div>
-      <a href="/">real live link</a>
     </div>
   );
 }
