@@ -1,10 +1,9 @@
-import React from "react"
-
-import { GithubRibbon } from "react-github-ribbon-alt"
+import { GithubRibbon } from "react-github-ribbon-alt";
+import React from "react";
 import "./index.css";
 
 const commonProps = Object.freeze({
-  href: "/",
+  href: "https://andy-byers.github.io/react-github-ribbon-alt/",
   width: 200,
   height: 200,
 });
